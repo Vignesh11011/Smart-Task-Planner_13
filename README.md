@@ -39,7 +39,6 @@ Smart Task Planner helps users break down high-level goals into **clear, actiona
 | Auth | JWT, bcrypt |
 | Database | MongoDB (Atlas or local) |
 | AI | OpenAI API (`gpt-4o-mini`) |
-| Deployment | Render (Frontend + Backend) |
 
 ---
 
@@ -123,7 +122,7 @@ npm run dev
 ```
 
 Frontend runs on `http://localhost:5173`  
-Backend runs on `http://localhost:5000`
+Backend runs on `http://localhost:4000`
 
 ---
 
