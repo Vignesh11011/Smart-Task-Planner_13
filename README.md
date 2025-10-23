@@ -6,7 +6,9 @@
 Smart Task Planner helps users break down high-level goals into **clear, actionable tasks** with **dependencies**, **timelines**, and **AI-generated suggestions** — powered by **LLMs** and built with a **secure full-stack architecture**.
 
 ---
-
+##Video Link:
+https://drive.google.com/file/d/10PstCM1vYRduonb3EAfsY3vL4wPEKln3/view?usp=drive_lin
+k
 ## 🚀 Features
 
 ### 🌐 Frontend (React + Vite + TailwindCSS)
